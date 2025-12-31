@@ -17,4 +17,4 @@
 *.key
 *.pub
 
-ec2/ssh-keypairs/
+Terraform/ec2/ssh-keypairs/
